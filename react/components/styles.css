@@ -1,0 +1,8 @@
+.container{
+    /* background-color: red; */
+    padding: 10px;
+}
+.container__item{
+    /* border: 1px solid green; */
+    margin-bottom: 10px;
+}
